@@ -1,2 +1,2 @@
-LSTM
-====
+Non-intrusive LSTM architecture
+===============================
