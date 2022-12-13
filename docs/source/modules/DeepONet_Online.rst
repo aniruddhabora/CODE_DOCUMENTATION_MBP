@@ -76,5 +76,12 @@ Code Setup
 			* Now type sbatch job.sbatch in your terminal.
 
 
+Transfer Learning
+-----------------
 
+Previous results shows the effectiveness of the DeepONet for the patch we selected. The next step is to see if this learning can be applied to other areas and how much of training is required if we move to other patches. Keeping this in mind we have selected four zones as shown below.
 
+.. figure:: images/fig_5.png
+  :width: 600
+  :align: center
+  :alt: Alternative text
